@@ -1,0 +1,22 @@
+{
+	"name": "jsdoc3-plugin-propertyof",
+	"version": "0.0.1",
+	"author": "Vincent Meurisse <dev@meurisse.org>",
+	"description": "A jsdoc plugin that allow you documenting complex types and json files",
+	"keywords": ["jsdoc", "jsdoc3", "plugin", "propertyof", "json", "typedef"],
+	"homepage": "https://github.com/vmeurisse/jsdoc3-plugin-propertyof",
+	"bugs": {
+		"url": "https://github.com/vmeurisse/jsdoc3-plugin-propertyof/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vmeurisse/jsdoc3-plugin-propertyof.git"
+	},
+	"files": [
+		"package.json",
+		"jsdoc3-plugin-propertyof.js",
+		"readme.md",
+		"license.txt"
+	],
+	"main": "jsdoc3-plugin-propertyof.js"
+}
